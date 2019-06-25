@@ -1,0 +1,16 @@
+ble {
+	border-style: solid;
+	border-color: black;
+}
+td:hover {
+	background-color: yellow;
+	color: black;
+}
+tr, th {
+	background-color: gray;
+	color: Red;
+}
+tr,td {
+	background-color: green;
+	color: yellow;
+}
