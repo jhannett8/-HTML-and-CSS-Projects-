@@ -1,4 +1,0 @@
-function Function_1() {
-		var String = "Kiss,me, I'm Beautiful!";
-		var result = String.fontcolor ("green");
-		document.getElementById("Irish").innerHTML = result;
